@@ -1,0 +1,9 @@
+{
+	"name": "shreyasfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da874b04-5860-4a1e-bf78-86d9d5e5ccb5",
+		"tenantId": "8ec1d13c-6dae-4845-a718-b6a14398fc51"
+	}
+}
